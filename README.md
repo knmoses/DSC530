@@ -1,5 +1,7 @@
-# DSC530-Final
-DSC 530 Final Project
+# DSC530 Names
 
-I have included the code, powerpoint, and paper within this repository. While the dataset I chose did not give me the answers after an analysis of it, 
-working with it provided great insight and practice with the EDA processes.
+This project focuses around Exploratoy Data Analysis.
+It was created to determine the most common baby names of specific years and if there was a relationship between how many males and females born. 
+
+### Programming Language
+Python
