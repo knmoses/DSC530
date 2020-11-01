@@ -10,3 +10,8 @@ Python
 
 ### Data
 Website: https://www.kaggle.com/datagov/usa-names
+
+## License
+MIT License
+
+Copyright (c) 2020 Krystina Moses
