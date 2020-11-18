@@ -16,7 +16,7 @@ Presentation: "DSC530 Final Project.pdf"
 2. Statistically, each year, there is no amount of males or females born more comparing 2017 and 2018.
 
 ### Programming Language
-Python
+Python, Jupyter Notebook
 
 ### Data
 Website: https://www.kaggle.com/datagov/usa-names
