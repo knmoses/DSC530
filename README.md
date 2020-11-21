@@ -7,7 +7,9 @@ It was created to determine the most common baby names of specific years and if 
 
 ## File Information
 Jupyter Notebook Code: "DSC 530 Final Code.ipynb"
+
 Paper: "DSC 530 Final Paper.pdf"
+
 Presentation: "DSC530 Final Project.pdf"
 
 ## Results
